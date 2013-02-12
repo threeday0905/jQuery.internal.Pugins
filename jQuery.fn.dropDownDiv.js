@@ -1,3 +1,10 @@
+/* 
+ *  Plugin Name: $.fn.dropDownDiv v1.4
+ *  Author: Herman Lee
+ *  Date: 2010.10
+ *  Description: Use div to simulate the select-option behavior. So that developer can easily to add the style on the select.
+ */
+
 $.dropDownDiv = function (container, options) {
     var defaults = {
         divWidth: 'auto',     //the width of option

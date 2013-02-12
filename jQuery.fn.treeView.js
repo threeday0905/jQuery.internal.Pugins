@@ -1,3 +1,10 @@
+/* 
+ *  Plugin Name: $.fn.treeView v2.1
+ *  Author: Herman Lee
+ *  Date: 2010.06
+ *  Description: Transform database data into a tree view. So that user can easily to to maintain the data relation and value via UI.
+ */
+
 $.treeView = function (container, options) {
     var defaults = {
         showTitle: true, 
