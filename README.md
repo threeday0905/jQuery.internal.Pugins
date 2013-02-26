@@ -6,7 +6,7 @@ This project is use to record some internal jQuery plugin.
 
 2012
   1. $.serializeObject: Serialize the form input into a object
-  2. $.fn.dlTabs: Transform <dl /> <dt /> <dd /> tags into a tab widget
+  2. $.fn.dlTabs: Transform dl, dt, dd tags into a tab widget
   3. $.fn.placeholder: Adding the placeholder feature, if the browser doesn't support [placeholder] property.
   
 
