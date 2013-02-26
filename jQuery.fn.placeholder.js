@@ -1,4 +1,11 @@
-﻿$.fn.placeholder = function(inopts) {
+﻿/* 
+ *  Plugin Name: $.fn.placeholder v1.2
+ *  Author: Herman Lee
+ *  Date: 2012.01
+ *  Description: Adding the placeholder feature, if the browser doesn't support [placeholder] property.
+ */
+
+$.fn.placeholder = function(inopts) {
   var opts = $.extend({
     className: 'placeholder'
   }, inopts || {}), $inputs;

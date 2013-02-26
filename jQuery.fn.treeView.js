@@ -1,4 +1,5 @@
 /* 
+ *  [Deprecated] 
  *  Plugin Name: $.fn.treeView v2.1
  *  Author: Herman Lee
  *  Date: 2010.06

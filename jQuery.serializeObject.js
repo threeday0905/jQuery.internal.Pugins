@@ -1,4 +1,11 @@
-﻿$.serializeObject = function($form) {
+﻿/* 
+ *  Plugin Name: $.serializeObject v1.0
+ *  Author: Herman Lee
+ *  Date: 2012.01
+ *  Description: Serialize the form input into a object.
+ */
+
+$.serializeObject = function($form) {
   var obj = {}, radios = [], i, len, name;
   $form = $($form);
   if ($form && $form.length) {

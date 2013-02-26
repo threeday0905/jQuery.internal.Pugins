@@ -1,4 +1,5 @@
 /* 
+ *  [Deprecated]
  *  Plugin Name: $.fn.dropDownDiv v1.4
  *  Author: Herman Lee
  *  Date: 2010.10

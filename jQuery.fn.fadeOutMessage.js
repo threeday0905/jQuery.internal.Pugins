@@ -1,4 +1,5 @@
 /* 
+ *  [Deprecated]
  *  Plugin Name: $.fn.fadeOutMessage v1.0
  *  Author: Herman Lee
  *  Date: 2010.02

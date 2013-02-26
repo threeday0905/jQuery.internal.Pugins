@@ -1,4 +1,11 @@
-﻿$.fn.dlTabs = function(inopts) {
+﻿/* 
+ *  Plugin Name: $.fn.dlTabs v1.0
+ *  Author: Herman Lee
+ *  Date: 2012.01
+ *  Description: Transform <dl /> <dt /> <dd /> tags into a tab widget.
+ */
+
+$.fn.dlTabs = function(inopts) {
   var opts = $.extend({
     targetKey: 'data-section-key',
     activeClass: 'active',
